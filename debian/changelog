@@ -1,3 +1,9 @@
+libbitcoin0 (2.0.0-1+nmu1) unstable; urgency=low
+
+  * libsecp256k1
+
+ -- Pablo Castellano <pablo@anche.no>  Sun, 22 Jun 2014 00:33:56 +0200
+
 libbitcoin0 (2.0.0+nmu1) unstable; urgency=low
 
   * Non-maintainer upload.
