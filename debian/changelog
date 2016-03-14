@@ -1,3 +1,11 @@
+libbitcoin0 (2.11.0+nmu1) unstable; urgency=medium
+
+  * New upstream release.
+  * Remove leveldb dependency.
+  * Added debian/watch file.
+
+ -- Pablo Castellano <pablo@anche.no>  Mon, 14 Mar 2016 02:49:42 +0100
+
 libbitcoin0 (2.8.0+nmu1) unstable; urgency=medium
 
   * New upstream release.

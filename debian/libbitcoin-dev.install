@@ -11,6 +11,7 @@ usr/include/bitcoin/bitcoin/impl/utility/*.ipp
 usr/include/bitcoin/bitcoin/math/*.hpp
 usr/include/bitcoin/bitcoin/network/*.hpp
 usr/include/bitcoin/bitcoin/trie/*.hpp
+usr/include/bitcoin/bitcoin/unicode/*.hpp
 usr/include/bitcoin/bitcoin/utility/*.hpp
 usr/include/bitcoin/bitcoin/wallet/*.hpp
 usr/lib/lib*.a
